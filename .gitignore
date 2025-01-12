@@ -1,0 +1,17 @@
+# Ignore temporary files
+*.tmp
+*.log
+*.DS_Store
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore games.csv
+data/games.csv
+data/steam_games_cleaned.csv
+
+# Ignore temporary Tableau backup file
+visuals/.~Book1__27220.twbr
+
+# Ignore Tableau backup files
+*.twbx~
